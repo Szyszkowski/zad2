@@ -1,4 +1,4 @@
-package web;
+package web.filters.Servlets;
 
 import java.io.IOException;
 import java.sql.SQLException;

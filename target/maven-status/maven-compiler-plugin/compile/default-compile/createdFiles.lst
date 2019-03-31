@@ -1,13 +1,13 @@
-web\UserDataServlet.class
 repositories\RegistrationRepository.class
-web\AdminPanelServlet.class
+web\filters\Servlets\AdminPanelServlet.class
 domain\Registration.class
 repositories\HSQLDBConnection.class
 web\filters\RegistrationFilter.class
 web\filters\UserDataFilter.class
-web\RegistrationServlet.class
 web\filters\PremiumFilter.class
+web\filters\Servlets\RegistrationServlet.class
 repositories\DummyRegistrationRepository.class
+web\filters\Servlets\LoginServlet.class
+web\filters\Servlets\UserDataServlet.class
 web\filters\AdminPanelFilter.class
 web\filters\LoginFilter.class
-web\LoginServlet.class
